@@ -1,0 +1,11 @@
+order_id,customer,product,quantity,price,order_date,city,total_amount
+101,Asha,Laptop,1,50000,2026-01-10,Pune,50000
+102,Rahul,Mouse,2,2500,2026-02-10,Mumbai,5000
+103,Priya,Keyboard,1,1500,2026-02-10,Pune,1500
+104,Asha,Mouse,3,3500,2026-03-10,Pune,10500
+105,Amit,Laptop,1,50000,2026-04-10,Delhi,50000
+106,rahul,Keyboard,2,1500,2026-05-10,Mumbai,3000
+107,Sneha,Monitor,1,12000,2026-05-10,Pune,12000
+108,Neha,Mouse,4,500,2026-06-10,Mumbai,2000
+109,Amit,Keyboard,2,1500,2026-07-10,Delhi,3000
+110,Priya,Laptop,1,50000,2026-08-10,Pune,50000
