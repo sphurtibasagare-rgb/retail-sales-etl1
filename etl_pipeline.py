@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.engine import URL
 
 # Read cleaned CSV
-df = pd.read_csv("data/cleaned_orders.csv")
+df = pd.read_csv("cleaned_orders.csv")
 
 # MySQL connection details
 connection_url = URL.create(
